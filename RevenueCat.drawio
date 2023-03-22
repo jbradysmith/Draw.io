@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T17:44:03.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.10" etag="gPUZjMwgBFL3q79yQeXj" type="github"><diagram name="Page-1" id="eQSWvrFiPnbnD-zrMWKL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-22T17:55:10.930Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Q0iewgKQ2dNLKSiwduqi" version="21.0.10" type="github">
+  <diagram name="Page-1" id="eQSWvrFiPnbnD-zrMWKL">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-1" value="Apple" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-2" value="Android" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-3" value="Stripe" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-4" value="Revenue Cat" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="251.75" y="280" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-7" value="Airflow" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-8" value="Datamart" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="sourcePoint" />
+            <mxPoint x="550" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-10" value="Owned by Revenue Cat&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7x6ui9XK2qQGtRPMX7TD-11" value="Custom&lt;br&gt;&amp;nbsp;dev&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="470" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
